@@ -1,6 +1,6 @@
 <div><center>
     <p align="center"><img src="https://avatars.githubusercontent.com/ngoquoctoandev" height="150" width="150"></p>
-    <h3 align="center">oscie・Student</h3>
+    <h3 align="center">ngoquoctoan・Trainer</h3>
 </div></center>
 
 
